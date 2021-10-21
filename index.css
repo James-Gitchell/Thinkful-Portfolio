@@ -49,13 +49,45 @@ table {
 /* General Styles*/
 
 * {
-  box-sizing:border-box;
-  max-width:100%;  
-  border:1px solid grey;
+    box-sizing:border-box;
+    max-width:100%;  
+    border:1px solid grey;
 
 }
+#outsideContainer {
+    width:100%;
+}
+#imageOfMe {
+    padding:25%;	
+}
 .headOfPage  {
-display:flex;
-flex-wrap: wrap;
-width: 50%;
+    display:flex;
+    flex-wrap:;
+    width: 100%;
+}
+.nameContainer {
+    display:flex;
+    flex-direction:row;
+    padding-top:0 auto;
+    width:30%;
+}
+#nameFlair {
+
+
+}
+#testHeadRight {
+	display:flex;
+	justify-content:flex-end;
+	align-items: center;
+	width:70%;
+}
+/*.headNav nav a{
+    width:0 auto;
+    display:inline-flex;
+    flex-direction: right;
+    jutify-content:center;
+    padding-top:50%;*/
+}
+#bodyBackground {
+
 }
