@@ -77,16 +77,17 @@ table {
 }
 #testHeadRight {
 	display:flex;
-	justify-content:flex-end;
-	align-items: center;
+	flex-direction:;
+	justify-content:space-between;
+	align-items:center;
 	width:70%;
 }
-/*.headNav nav a{
-    width:0 auto;
-    display:inline-flex;
-    flex-direction: right;
-    jutify-content:center;
-    padding-top:50%;*/
+/*#testHeadRight .headNav a {
+	width:80%;
+    display:flex;
+	flex-direction:;
+    jutify-content:;*/
+    
 }
 #bodyBackground {
 
