@@ -1,0 +1,65 @@
+/*
+this is css that I removed for a test 
+*/
+/*
+av {
+    width:0 auto;
+    display: flex;
+    justify-content:space-around;	
+    padding:10%;
+    }
+    #outsideContainer {
+        width:100%;
+    }
+    #imageOfMe {
+        padding:25%;
+        margin-bottom:25%;	
+    }
+    .headOfPage  {
+        display:flex;
+        flex-wrap:;
+        width: 100%;
+    }
+    .nameContainer {
+        display:flex;
+        flex-direction:row;
+        padding-top:0 auto;
+        width:30%;
+    }
+    #nameFlair {
+    
+    
+    }
+    #careerFlair {
+        justify-content: flex-end;
+        }
+    #testHeadRight {
+        display:flex;
+        flex-direction:;
+        justify-content:space-between;
+        align-items:center;
+        width:70%;
+    }
+    
+        
+    }
+    #bodyBackground {
+    
+    }
+    #justTheFoot {
+        display: flex;
+        flex-wrap: ;
+    }
+    /*.footerNav {
+    display:flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width:0 auto;
+    }
+    .footerNav a {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        width:to;
+    
+    }*/
